@@ -1,4 +1,4 @@
-# 🛂 Skill: Preparación de visa americana B1/B2 (turismo/negocios)
+# Skill: Preparación de visa americana B1/B2 (turismo/negocios)
 
 Una guía conversacional, en español, para acompañar paso a paso a quien solicita una visa estadounidense de turismo o negocios (B1/B2). Está escrita en Markdown plano para que pueda usarse con **cualquier asistente de IA**.
 
@@ -7,7 +7,7 @@ Una guía conversacional, en español, para acompañar paso a paso a quien solic
 3. **Documentos**: checklist personalizado para la entrevista.
 4. **Simulacro de entrevista**: práctica con retroalimentación, una pregunta a la vez.
 
-> ⚠️ **Proyecto comunitario y no oficial.** No está afiliado, avalado ni patrocinado por el Gobierno de EE. UU., el Departamento de Estado ni la Embajada. Lee el [aviso legal](AVISO_LEGAL.md).
+> **Proyecto comunitario y no oficial.** No está afiliado, avalado ni patrocinado por el Gobierno de EE. UU., el Departamento de Estado ni la Embajada. Lee el [aviso legal](AVISO_LEGAL.md).
 
 ## Cómo usarla
 
